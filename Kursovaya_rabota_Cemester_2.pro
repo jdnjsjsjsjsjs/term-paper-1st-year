@@ -13,4 +13,5 @@ HEADERS += \
     migration.h
 
 DISTFILES += \
-    .gitignore
+    .gitignore \
+    README.md
