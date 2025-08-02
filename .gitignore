@@ -1,0 +1,17 @@
+# Qt build artifacts
+
+*.o
+*.obj
+*.exe
+*.user
+*.user.*
+*.autosave
+*.moc
+*.pro.user
+Makefile*
+*.log
+*.qmlc
+*.qrc.dep
+*.qrc.cpp
+.qmake.stash
+*.directory
